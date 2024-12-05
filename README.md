@@ -110,7 +110,6 @@ The project successfully analyzed the factors contributing to employee burnout a
 - Python 3.x
 - Required libraries (listed below)
 
-# Employee Burnout Analysis
 
 ## Usage
 
